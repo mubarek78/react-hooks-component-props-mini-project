@@ -1,9 +1,9 @@
 import logo from "../assets/logo.svg";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Adam's big fat blog",
   image: logo,
-  about: "A blog about learning React",
+  about: "A blog about the movie Saw V",
   posts: [
     {
       id: 1,
